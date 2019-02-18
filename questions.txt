@@ -1,0 +1,83 @@
+Which of the following options best describes your child's current ability level?
+* must provide value
+ Able to perform all activities of daily living or age appropriate milestones independently with no restriction
+ Able to participate in the following with some level of disability: ambulation, communication or fine motor tasks at an age appropriate level
+ Requires functional or equipment support for any of the following: ambulation, communication or fine motor tasks at an age-appropriate level
+ Dependent for all activities of daily living and unable to ambulate, communicate, or perform fine motor tasks at an age appropriate level even with support
+reset
+If your child has cried today, how would you describe it?
+* must provide value
+ Did not cry today OR was easily consolable after crying.
+ Excessive or high-pitched cry inconsolable for >2 minutes OR intermittently for < 10 minutes.
+ Excessive or high-pitched cry inconsolable for >2 minutes AND intermittently for < 10 minutes.
+ Excessive or high-pitched, not consolable (i.e. cried >10 minutes).
+reset
+How would you describe your child's sleep last night?
+* must provide value
+ Slept >6 hours continuously.
+ Slept 4-5 hours continuously.
+ Slept 2-3 hours continuously.
+ Slept < 2 hour.
+reset
+Describe your child's current level of irritability.
+* must provide value
+ No irritability.
+ Irritable, but calm in < 6 minutes after consoling.
+ Irritable, but calmed in 6-15 minutes by consoling.
+ Irritable, and calmed in >15 minutes or not at all.
+reset
+How would you describe your child's startle reflex?
+* must provide value
+ No startle reflex, or not observed.
+ Mild startle to noise.
+ Strong startle to noise.
+ Even stronger startle to noise involving face grimacing, blinking, and repeated arm jerking.
+ Startles even in the absense of noise.
+reset
+Has your child experienced tremors - shaking, jittering, or shivering movements of the extremities that are not seizures - today?
+* must provide value
+ No tremors today.
+ Tremors only when disturbed (i.e. awoken from sleep, moved, or otherwise stimulated).
+ Tremors even when undisturbed.
+reset
+Have tone symptoms been observed today?
+* must provide value
+ No tone issues today.
+ Increased or decreased muscle tone (i.e. excessive stiffness or floppiness).
+reset
+Has your child experienced convulsions or seizures today?
+* must provide value
+ No.
+ Yes.
+reset
+Has your child had a fever today? Please provide today's morning temperature OR maximum temperature recorded over the past 24 hours, depending on which was higher.
+* must provide value
+ No fever. Temperature less than 98.9F.
+ Low-grade fever. Temperature between 99-101F (37.2-38.3C).
+ High fever. Temperature above 101.1F (38.4C).
+reset
+Has your child experienced feeding difficulties today?
+* must provide value
+ No feeding issues to report.
+ Poor feeding (i.e. infrequent or uncoordinated suck, or dependent on G-Tube feeds).
+reset
+Has your child vomited today?
+* must provide value
+ No.
+ Yes.
+reset
+Has your child developed any of the following skin issues on his/her BODY.
+* must provide value
+ No skin problems at all.
+ Red patches that fade quickly when pressed with fingers.
+ Red patches that do NOT fade quickly when pressed with fingers.
+ Chronic discoloration.
+reset
+Has your child developed any of the following skin issues on his/her
+HANDS, FACE, OR EARS.
+* must provide value
+ No skin problems at all.
+ Red patches that fade quickly when pressed with fingers.
+ Red patches that do NOT fade quickly when pressed with fingers.
+ Chronic discoloration.
+reset
