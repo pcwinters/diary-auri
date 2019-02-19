@@ -1,13 +1,18 @@
 {
   "devDependencies": {
     "eslint-plugin-prettier": "^3.0.1",
-    "prettier": "1.16.4"
+    "heroku": "^7.21.0",
+    "prettier": "1.16.4",
+    "sequelize-cli": "^5.4.0"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "next": "^8.0.1",
+    "pg": "^7.8.0",
     "ramda": "^0.26.1",
     "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "react-dom": "^16.8.2",
+    "sequelize": "^4.42.0"
   },
   "name": "diary-auri",
   "version": "0.0.0",
@@ -17,9 +22,9 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "dev": "next",
+    "dev": "node server.js",
     "build": "next build",
-    "start": "next start -p $PORT",
-    "heroku-postbuild": "npm run build"
+    "start": "NODE_ENV=production node server.js",
+    "heroku-postbuild": "npm run build && sequelize db:migrate"
   }
 }
