@@ -69,10 +69,7 @@
   },
   {
     "question": "Has your child experienced convulsions or seizures today?",
-    "options": [
-      "No.",
-      "Yes."
-    ],
+    "options": ["No.", "Yes."],
     "isRequired": true
   },
   {
@@ -94,10 +91,7 @@
   },
   {
     "question": "Has your child vomited today?",
-    "options": [
-      "No.",
-      "Yes."
-    ],
+    "options": ["No.", "Yes."],
     "isRequired": true
   },
   {
@@ -111,9 +105,8 @@
     "isRequired": true
   },
   {
-    "question": "Has your child developed any of the following skin issues on his/her",
+    "question": "Has your child developed any of the following skin issues on his/her HANDS, FACE, OR EARS.",
     "options": [
-      "HANDS, FACE, OR EARS.",
       "No skin problems at all.",
       "Red patches that fade quickly when pressed with fingers.",
       "Red patches that do NOT fade quickly when pressed with fingers.",

@@ -9,7 +9,10 @@ module.exports = (sequelize, DataTypes) => {
     {}
   );
   Submission.associate = function(models) {
-    Submission.hasMany(models.Answer, { as: "Answers" });
+    Submission.hasMany(models.Answer, {
+      as: "answers",
+      foreignKey: "submissionId"
+    });
   };
   return Submission;
 };

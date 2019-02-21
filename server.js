@@ -1,10 +1,10 @@
 const express = require("express");
 const next = require("next");
+const api = require("./api");
 
 const dev = process.env.NODE_ENV !== "production";
 const app = next({ dev });
 const handle = app.getRequestHandler();
-const models = require("./models");
 
 const PORT = process.env.PORT || 3000;
 app
@@ -12,12 +12,7 @@ app
   .then(() => {
     const server = express();
 
-    server.get("/submissions/", (req, res) => {
-      models.Submission.findAll().then(submissions => {
-        res.send(submissions.map(s => s.toJSON()));
-      });
-    });
-
+    server.use("/api", api());
     server.get("*", (req, res) => {
       return handle(req, res);
     });
